@@ -28,7 +28,7 @@
     border-radius: 18px;
     border-style: none;
     background-color: #ECE6F0;
-    margin: 20px 15px;
+    margin: 20px auto;
     padding: 15px;
     display: flex;
     justify-content:center;
@@ -38,7 +38,7 @@
 
 #sicon {
     position: absolute;
-    top: 125px;
+    top: 128px;
     right: 5%;
 }
 
@@ -153,11 +153,14 @@
 #forspacingright1 {
     position: relative;
     top: 8px;
+    font-size: smaller;
 }
 
 #forspacingright2 {
     position: relative;
-    top: 5px;
+    top: 4px;
+    font-size: smaller;
+
 }
 
 #container4 {
